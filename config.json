@@ -1,0 +1,5 @@
+{
+    "HF_TOKEN": "your-hugging-face-token"
+    "OPENAI_API_KEY": "OPENAI_API_KEY",
+    "OPENAI_API_BASE": "OPENAI_API_BASE"
+}
